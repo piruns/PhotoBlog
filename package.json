@@ -1,0 +1,10 @@
+{
+  "name": "Photo Blog",
+  "version": "0.0.1",
+  "main": "src/app.js",
+  "author": "Nathon Reed",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.16.2"
+  }
+}
